@@ -1,8 +1,8 @@
 ﻿# 👋 Hey, I'm **Zahed Hasan**  
-### Full-Stack Software Engineer | SaaS Architect | Freelance Startup Builder  
-**Building scalable, real-time, and AI-powered platforms for startups & enterprises**
+### Full-Stack Software Engineer | SaaS & ERP Integrator | Level 1 Fiverr Seller  
+**Specializing in custom mobile apps with Odoo/ERP integrations, startup SaaS MVPs, and real estate solutions**
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Top%20Rated%20Seller-00BF63?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jinnat75)  
+[![Fiverr Level 1](https://img.shields.io/badge/Fiverr-Level%201%20Seller-00BF63?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jinnat75)  
 [![GitHub](https://img.shields.io/badge/GitHub-Zahed75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zahed75)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahed_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahedhasan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-zahed.dev-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zahed.dev)  
@@ -28,7 +28,9 @@
 ---
 
 ## 👨‍💻 **Profile**
-Experienced in **web & mobile app development**, **microservices architecture**, and **e-commerce solutions**. Skilled in **Angular, Node.js, Django, Flutter, PostgreSQL, MongoDB, AWS, Docker, CI/CD, GraphQL, and REST APIs**. Proven ability to build **scalable SaaS**, **EdTech**, and **AI-powered platforms** with robust, production-ready solutions.
+**Full-Stack Software Engineer with 5+ years in web & mobile app development**, specializing in **microservices architecture**, **e-commerce**, and **ERP integrations**. Expert in **Angular, Node.js, Django, Flutter, PostgreSQL, MongoDB, AWS, Docker, CI/CD, GraphQL, and REST APIs**. Proven track record building **scalable SaaS platforms**, **EdTech solutions**, **AI-powered tools**, and **custom mobile apps with Odoo/ERP** for startups and enterprises. As a **Level 1 Fiverr Seller** (5.0/5 rating from 10+ reviews), I deliver production-ready solutions on time, following best practices.
+
+**Freelance Focus**: Helping startups launch MVPs like **IC Cleaners (UK-based booking & cleaning SaaS)** and developing **real estate mobile apps with seamless ERP integration** for modern, mobile-first operations.
 
 ---
 
@@ -39,10 +41,12 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 - Node.js | Express.js  
 - REST & GraphQL APIs  
 - Microservices | CI/CD Pipelines  
+- **Odoo/ERP Integrations** (Custom APIs, Sync Modules)  
 
-### **Frontend**
+### **Frontend & Mobile**
 - Angular (v19) | Flutter (Cross-Platform)  
 - Reactive UIs | Riverpod | State Management  
+- **Mobile-First ERP Apps** (Real-Time Data Sync)  
 
 ### **Databases**
 - PostgreSQL | MySQL | MongoDB  
@@ -54,8 +58,8 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 - GitHub Actions | Jenkins | Nginx  
 
 ### **Integrations**
-- aamarPay | SSLWireless  
-- Google Maps API | Firebase | Stripe  
+- aamarPay | SSLWireless | Stripe  
+- Google Maps API | Firebase | **Odoo ERP**  
 
 ---
 
@@ -81,7 +85,7 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 
 - Led backend development, **CI/CD pipeline integration**, and **Docker implementation**  
 - **30% operational cost reduction** by automating order & delivery systems  
-- Enhanced deployment efficiency and streamlined business processes  
+- Enhanced deployment efficiency and streamlined business processes with ERP sync  
 
 **Tech Stack**: Django REST API, Express.js, PostgreSQL, MongoDB, Angular  
 🛒 [Beta Client UI](https://vcom.bestelectronics.com.bd)  
@@ -96,7 +100,7 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 
 - Developed **multi-tenant cloud kitchen solution** for restaurant chains  
 - Optimized **virtual menu management** and **revenue growth analytics**  
-- Implemented **role-based access**, **automated analytics**, and **strategic insights**  
+- Implemented **role-based access**, **automated analytics**, and **strategic insights** with ERP-like integrations  
 
 **Tech Stack**: Express.js, MongoDB, Docker, Redis, aamarPay, SSLWireless, GitHub Actions  
 🍴 [Onnow D2C](https://app.onnow.io/login)  
@@ -110,9 +114,12 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 
 | Project | Description | Key Achievements |
 |-------|-------------|------------------|
-| **ACI Real-Time Audit Platform** | Cross-platform mobile + web suite for retail audit & inspection | 99% faster audits, offline sync, 700+ outlets |
-| **Onnow Cloud Kitchen** | Multi-tenant SaaS for virtual restaurants | Revenue analytics, menu automation |
-| **VCom E-Commerce** | Scalable backend with secure payments | 30% cost cut, automated ERP |
+| **Custom Mobile App with Odoo/ERP Integration** | Real-time ERP sync for inventory, orders, and logistics via Flutter + Django APIs | Seamless mobile-to-ERP data flow; reduced manual entry by 80% |
+| **IC Cleaners SaaS MVP (UK-Based Startup)** | Booking, scheduling, and payment platform for cleaning services | Scalable multi-tenant architecture; integrated Stripe & Google Maps |
+| **Real Estate Mobile App with ERP** | Mobile-first property management with ERP backend for listings, viewings, and transactions | Offline support + real-time updates; handles 1K+ listings |
+| **ACI Real-Time Audit Platform** | Cross-platform suite for retail audits | 99% faster processing, 700+ outlets |
+| **Onnow Cloud Kitchen** | SaaS for virtual restaurants | Revenue analytics, automated menus |
+| **VCom E-Commerce** | ERP-automated platform with payments | 30% cost reduction |
 
 ---
 
@@ -121,7 +128,7 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 ### **Bachelor of Engineering – Software Development**  
 **IU International University of Applied Sciences, Germany**  
 `Sep 2022 – Feb 2025` | **180 ECTS** | ZFU Accredited  
-*German-accredited online program focused on full-stack engineering*
+*German-accredited online program focused on full-stack engineering & ERP systems*
 
 ---
 
@@ -136,9 +143,11 @@ Experienced in **web & mobile app development**, **microservices architecture**,
 
 ---
 
-## 🔥 **Currently Building (Freelance)**
+## 🔥 **Currently Building (Freelance on Fiverr)**
 
 ```diff
-+ EdTech SaaS MVP (Flutter + Django + Stripe + AI Grading)
++ Custom Mobile Apps with Odoo/ERP Integration (Real-time sync for logistics & inventory)
++ SaaS MVP for Startups: IC Cleaners UK (Booking platform with AI scheduling)
++ Real Estate Mobile App (Flutter + Django ERP for property management)
 + Inventory Forecasting AI Module (Python + AWS SageMaker)
 + Tradematrix – Investor Social Network (MERN Stack)
