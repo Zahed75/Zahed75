@@ -1,112 +1,144 @@
-﻿## Hey 👋, I'm Zahed Hasan!  
-  
+﻿# 👋 Hey, I'm **Zahed Hasan**  
+### Full-Stack Software Engineer | SaaS Architect | Freelance Startup Builder  
+**Building scalable, real-time, and AI-powered platforms for startups & enterprises**
 
-<a href="https://github.com/Zahed75" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/zahedhasan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Zahedhasan.CTO" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/zahedhasan.developer" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@syscomatic" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Top%20Rated%20Seller-00BF63?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jinnat75)  
+[![GitHub](https://img.shields.io/badge/GitHub-Zahed75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zahed75)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahed_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahedhasan)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-zahed.dev-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zahed.dev)  
+[![Email](https://img.shields.io/badge/Email-zahedhasan.cs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahedhasan.cs@gmail.com)
 
+---
 
+## 📞 **Contact Information**
+- **Phone**: +880 1611 814937  
+- **Email**: [zahedhasan.cs@gmail.com](mailto:zahedhasan.cs@gmail.com)  
+- **Location**: BGB 1 No Gate, Jigatola, Dhaka, Bangladesh  
 
-### Glad to see you here!  
-🚀 Meet Zahed Hasan - The Tech Renaissance Explorer 🌟
-Embarking on a dynamic journey through the ever-evolving tech universe, Zahed is a seasoned software engineer with a flair for innovation. With a robust three-year background in Django backend development, he effortlessly translates ideas into code at Syscomatic,Tunibibi Global Trading, and Tradematrix,Onnow Ghost Kitchen.
-But Zahed isn't just a one-trick pony. He recently set sail into the MERN stack, delving deep into Node.js to create cutting-edge solutions. Simultaneously, he dons the mantle of a Mobile Application virtuoso, crafting elegant apps with the Flutter framework.
-Zahed’s programming prowess is nothing short of magical, turning tech dreams into reality. Guided by the North Star of mentorship, he sculpts a versatile software engineering odyssey, hungry for fresh challenges and eager to embrace the enchanting twists and turns of his technical evolution. 🌌✨   
-  
+---
 
-<br/>  
+## 🌐 **Digital Identity**
+| Platform | Link |
+|--------|------|
+| GitHub | [@Zahed75](https://github.com/Zahed75) |
+| LinkedIn | [@zahedhasan](https://linkedin.com/in/zahedhasan) |
+| Portfolio | [zahed.dev](https://zahed.dev) |
+| Fiverr | [jinnat75](https://www.fiverr.com/jinnat75) |
 
+---
 
-## Rapidfire  
-- 🔭 I’m currently working on Onnow Cloud Kitchen
+## 👨‍💻 **Profile**
+Experienced in **web & mobile app development**, **microservices architecture**, and **e-commerce solutions**. Skilled in **Angular, Node.js, Django, Flutter, PostgreSQL, MongoDB, AWS, Docker, CI/CD, GraphQL, and REST APIs**. Proven ability to build **scalable SaaS**, **EdTech**, and **AI-powered platforms** with robust, production-ready solutions.
 
-  https://app.onnow.io/login  
-  
+---
 
-- Working on Tradematrix Social Network for Investors 
+## 🛠️ **Technical Skills**
 
-  https://www.tradematrixinc.com  
-  
+### **Backend**
+- Django | Django REST Framework  
+- Node.js | Express.js  
+- REST & GraphQL APIs  
+- Microservices | CI/CD Pipelines  
 
-- ❓Ask me about anything related to Django, Node.js-Express.js, Flutter  
-  
+### **Frontend**
+- Angular (v19) | Flutter (Cross-Platform)  
+- Reactive UIs | Riverpod | State Management  
 
-- ⚡ Fun fact: I love Coffee, Ice-cream    
-  
+### **Databases**
+- PostgreSQL | MySQL | MongoDB  
+- Redis | Hive DB (Offline-First)  
 
-<br/>  
+### **Cloud & DevOps**
+- AWS (EC2, RDS, S3, Lambda)  
+- Docker | Kubernetes  
+- GitHub Actions | Jenkins | Nginx  
 
+### **Integrations**
+- aamarPay | SSLWireless  
+- Google Maps API | Firebase | Stripe  
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-</div>  
+---
 
-<br/>  
+## 💼 **Work Experience**
 
+### **Software Engineer Level-II**  
+**ACI Logistics Ltd** • `12 May 2024 – Present`  
+> **Real-Time Audit & Inspection Platform** – Digitizing operations for **700+ Shwapno outlets**
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+- **Real-Time GPS Tracking**: Engineered live location tracking using Google Maps API for zonal managers  
+- **Offline-First Resilience**: Built mobile architecture with **Hive DB** → Eliminated **24-hour reporting delay**  
+- **Impact**: **99% reduction in audit processing time**, enhanced data accuracy & operational accountability  
+- **Scaled**: Supports **700+ outlets**, thousands of concurrent data points & media uploads  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zahed75&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Tech Stack**: Flutter, Dart, Riverpod, Angular 19, Django REST API, PostgreSQL  
+📱 [Mobile App (GitHub)](https://github.com/Zahed75/aci-audit-mobile) | 🌐 [Live Admin Portal](https://audit.shwapno.com)
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahed75&hide_border=true&layout=compact" align="left" style="width: 100%" />
+### **Deputy Manager (Software Engineer)**  
+**Best Electronics Ltd** • `04 Jan 2024 – 10 Mar 2025`  
+> **VCom E-Commerce Platform & Group ERP Automation**
 
-</td></tr></table>  
+- Led backend development, **CI/CD pipeline integration**, and **Docker implementation**  
+- **30% operational cost reduction** by automating order & delivery systems  
+- Enhanced deployment efficiency and streamlined business processes  
 
-<br/>  
+**Tech Stack**: Django REST API, Express.js, PostgreSQL, MongoDB, Angular  
+🛒 [Beta Client UI](https://vcom.bestelectronics.com.bd)  
+📚 [API Documentation](https://api.vcom.com/docs)  
+⚙️ [Admin App](https://admin.vcom.com)
 
-  
+---
 
-<br/>  
+### **Software Engineer**  
+**Syscomatic Technologies Ltd** • `20 May 2020 – 30 Dec 2023`  
+> **Onnow – Impact-Driven Cloud Kitchen SaaS**
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
+- Developed **multi-tenant cloud kitchen solution** for restaurant chains  
+- Optimized **virtual menu management** and **revenue growth analytics**  
+- Implemented **role-based access**, **automated analytics**, and **strategic insights**  
 
-<br/>  
+**Tech Stack**: Express.js, MongoDB, Docker, Redis, aamarPay, SSLWireless, GitHub Actions  
+🍴 [Onnow D2C](https://app.onnow.io/login)  
+☁️ [Cloud Infrastructure](https://cloud.onnow.io)  
+📊 [Database ERD](https://db.onnow.io)  
+📖 [API Docs](https://docs.api.onnow.io)
 
+---
 
-<br />
+## 🚀 **Project Highlights**
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+| Project | Description | Key Achievements |
+|-------|-------------|------------------|
+| **ACI Real-Time Audit Platform** | Cross-platform mobile + web suite for retail audit & inspection | 99% faster audits, offline sync, 700+ outlets |
+| **Onnow Cloud Kitchen** | Multi-tenant SaaS for virtual restaurants | Revenue analytics, menu automation |
+| **VCom E-Commerce** | Scalable backend with secure payments | 30% cost cut, automated ERP |
+
+---
+
+## 🎓 **Education**
+
+### **Bachelor of Engineering – Software Development**  
+**IU International University of Applied Sciences, Germany**  
+`Sep 2022 – Feb 2025` | **180 ECTS** | ZFU Accredited  
+*German-accredited online program focused on full-stack engineering*
+
+---
+
+## 🏆 **Certifications**
+
+| Certification | Platform | Duration |
+|-------------|----------|----------|
+| Full Stack Web Development with MERN | Ostad | Sep 2022 – Mar 2023 |
+| Mobile App Development in Flutter | Ostad | Apr 2023 – Sep 2023 |
+| Build a Backend API with Python | Udemy | Jun 2021 – Oct 2021 |
+| Reactive Angular Applications | Udemy | Dec 2024 – Feb 2025 |
+
+---
+
+## 🔥 **Currently Building (Freelance)**
+
+```diff
++ EdTech SaaS MVP (Flutter + Django + Stripe + AI Grading)
++ Inventory Forecasting AI Module (Python + AWS SageMaker)
++ Tradematrix – Investor Social Network (MERN Stack)
