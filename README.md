@@ -1,148 +1,173 @@
-﻿# 👋 Hey, I'm **Zahed Hasan**  
-### Full-Stack Software Engineer | Odoo/ERP Integration Expert | Level 1 Fiverr Seller  
-**Custom Mobile Apps with Odoo/ERP Integration • SaaS MVP Builder • Real Estate Mobile Solutions**
+<div align="center">
 
-[![Fiverr Level 1](https://img.shields.io/badge/Fiverr-Level%201%20Seller-00BF63?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jinnat75)  
-[![GitHub](https://img.shields.io/badge/GitHub-Zahed75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zahed75)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahed_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahedhasan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-zahed.dev-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zahed.dev)  
-[![Email](https://img.shields.io/badge/Email-zahedhasan.cs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahedhasan.cs@gmail.com)
+# Zahed Hasan
 
----
+### Software Engineer · Enterprise, ERP & SaaS Systems
 
-## 📞 **Contact Information**
-- **Phone**: +880 1611 814937  
-- **Email**: [zahedhasan.cs@gmail.com](mailto:zahedhasan.cs@gmail.com)  
-- **Location**: BGB 1 No Gate, Jigatola, Dhaka, Bangladesh  
+I design and build backend systems, mobile apps and ERP-integrated platforms<br/>that move real business operations from manual to automated.
+
+[**Portfolio**](https://thezhasan.com/) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/zahedhasan) &nbsp;·&nbsp; [**Email**](mailto:zahedhasan.cs@gmail.com) &nbsp;·&nbsp; [**Fiverr**](https://www.fiverr.com/jinnat75)
+
+<img src="https://skillicons.dev/icons?i=django,python,nodejs,flutter,angular,postgres,docker,aws&theme=dark" alt="Core stack" />
+
+</div>
 
 ---
 
-## 🌐 **Digital Identity**
-| Platform | Link |
-|--------|------|
-| GitHub | [@Zahed75](https://github.com/Zahed75) |
-| LinkedIn | [@zahedhasan](https://linkedin.com/in/zahedhasan) |
-| Portfolio | [zahed.dev](https://zahed.dev) |
-| Fiverr | [jinnat75](https://www.fiverr.com/jinnat75) |
+## Focus
+
+Currently a **Software Engineer (Level II) at ACI Logistics Ltd**, building enterprise mobile and backend systems with ERP integration.
+
+| Build | Integrate | Ship |
+|:--|:--|:--|
+| REST APIs & backend services | Odoo / ERP data sync | Dockerized, CI/CD-driven releases |
+| Offline-first Flutter apps | Payment gateways & third-party APIs | Multi-tenant SaaS platforms |
 
 ---
 
-## 👨‍💻 **Profile**
-**Full-Stack Software Engineer** with 5+ years building **scalable SaaS platforms**, **custom mobile apps with Odoo/ERP integration**, and **real-time enterprise solutions**. Expert in **Flutter, Django, Node.js, Angular, PostgreSQL, AWS, Docker, CI/CD, REST/GraphQL APIs**.
+## Engineering Highlights
 
-As a **Level 1 Fiverr Seller (5.0/5)**, I help startups launch **SaaS MVPs** and deliver **mobile-first ERP-integrated apps** — just like **IC Cleaners (UK-based cleaning SaaS)** and **real estate mobile platforms with live ERP sync**.
-
-> **Specialties**:  
-> - **Custom Mobile App with Odoo/ERP Integration**  
-> - **Build SaaS Application for Startup MVP**  
-> - **Real Estate Mobile App with ERP Integration**  
-
----
-
-## 🛠️ **Technical Skills**
-
-### **Backend**
-- Django | Django REST Framework  
-- Node.js | Express.js  
-- **Odoo/ERP API Integration** (Custom Sync, Webhooks, Modules)  
-- REST & GraphQL | Microservices | CI/CD  
-
-### **Frontend & Mobile**
-- Flutter (Cross-Platform) | Angular (v19)  
-- Riverpod | Reactive UIs  
-- **Mobile-First ERP Dashboards** (Real-Time Sync)  
-
-### **Databases**
-- PostgreSQL | MySQL | MongoDB  
-- Redis | Hive DB (Offline-First)  
-
-### **Cloud & DevOps**
-- AWS (EC2, RDS, S3, Lambda)  
-- Docker | Kubernetes  
-- GitHub Actions | Jenkins | Nginx  
-
-### **Integrations**
-- **Odoo ERP** | aamarPay | SSLWireless  
-- Google Maps API | Firebase | Stripe  
+| | |
+|:--|:--|
+| **700+ outlets** | Real-time audit & inspection platform digitising retail operations (Flutter + Django REST + PostgreSQL) |
+| **99% faster** | Audit processing time reduction after moving to an offline-first workflow with Hive DB |
+| **30% lower cost** | Operational cost reduction through automated order & delivery workflows on an ERP-synced e-commerce platform |
+| **Multi-tenant SaaS** | Cloud-kitchen platform with role-based access, analytics and payment integrations |
 
 ---
 
-## 💼 **Work Experience**
+## Tech Stack
 
-### **Software Engineer Level-II**  
-**ACI Logistics Ltd** • `12 May 2024 – Present`  
-> **Real-Time Audit & Inspection Platform** – Digitizing operations for **700+ Shwapno outlets**
-
-- Built **custom mobile app with ERP integration** for real-time order, inventory & logistics  
-- **Offline-first Flutter app** with Hive DB → Eliminated 24-hour delay  
-- **99% reduction in audit processing time**  
-- Scaled to **700+ outlets**, thousands of concurrent data points  
-
-**Tech Stack**: Flutter, Riverpod, Django REST API, PostgreSQL  
-📱 [Mobile App (GitHub)](https://github.com/Zahed75/aci-audit-mobile) | 🌐 [Live Admin](https://audit.shwapno.com)
+| Area | Technologies |
+|:--|:--|
+| **Backend** | Django · Django REST Framework · FastAPI · Node.js · Express.js · GraphQL |
+| **Mobile** | Flutter · Dart · Riverpod · Clean Architecture · React Native |
+| **Frontend** | Angular · TypeScript · Tailwind CSS |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis · Hive |
+| **Cloud & DevOps** | AWS · Docker · Kubernetes · GitHub Actions · Nginx |
+| **ERP & Integrations** | Odoo · Stripe · aamarPay · SSLWireless · Firebase · Google Maps API |
 
 ---
 
-### **Deputy Manager (Software Engineer)**  
-**Best Electronics Ltd** • `04 Jan 2024 – 10 Mar 2025`  
-> **VCom E-Commerce & Group ERP Automation**
+## Featured Projects
 
-- Led **backend with ERP sync**, Docker CI/CD, and payment integration  
-- **30% cost reduction** via automated order & delivery workflows  
-- Migrated manual systems to **real-time ERP-integrated platform**  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**: Django REST, Express.js, PostgreSQL, MongoDB, Angular  
-🛒 [Client Beta UI](https://vcom.bestelectronics.com.bd)  
-📚 [API Docs](https://api.vcom.com/docs)
+**[Mobo Inventory](https://github.com/Zahed75/mobo_inventory)**<br/>
+Mobile inventory solution integrated with Odoo.<br/>
+`Flutter` `Dart` `Odoo`<br/>
+*Brings ERP stock operations to the field.*
+
+</td>
+<td width="50%" valign="top">
+
+**[ProspireNext ERP](https://github.com/Zahed75/prospireErp)**<br/>
+ERP built on Odoo.<br/>
+`Python` `Odoo`<br/>
+*Custom ERP modules for business workflows.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Resort & Hotel Management](https://github.com/Zahed75/resoErp)**<br/>
+Hotel and resort management system.<br/>
+`Python` `ERP`<br/>
+*Operations management for hospitality.*
+
+</td>
+<td width="50%" valign="top">
+
+**[Apartment Ticket Support App](https://github.com/Zahed75/cpdl)**<br/>
+Mobile app for an Odoo-based apartment ticket support system.<br/>
+`Flutter` `Dart` `Odoo`<br/>
+*Resident issue tracking synced with ERP.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[IC Cleaner Dashboard](https://github.com/Zahed75/IC-Cleaner-Dashboard)**<br/>
+SaaS admin dashboard for a cleaning-services platform.<br/>
+`Angular 20` `TypeScript`<br/>
+*Booking and service management UI.*
+
+</td>
+<td width="50%" valign="top">
+
+**[FastAPI Boilerplate](https://github.com/Zahed75/fastapi_boilerplate)**<br/>
+Starter template for FastAPI services.<br/>
+`Python` `FastAPI`<br/>
+*Faster, consistent backend project setup.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Personal Website](https://github.com/Zahed75/zahed-dev)**<br/>
+Portfolio site with a headless CMS backend.<br/>
+`Angular 20` `DRF` `Wagtail`<br/>
+*Live at [thezhasan.com](https://thezhasan.com/).*
+
+</td>
+<td width="50%" valign="top">
+
+**[Dio Clean Architecture](https://github.com/Zahed75/dio_clean_archiecture)**<br/>
+Flutter clean-architecture reference with Dio.<br/>
+`Flutter` `Dio` `Riverpod`<br/>
+*Maintainable layered mobile code.*
+
+</td>
+</tr>
+</table>
 
 ---
 
-### **Software Engineer**  
-**Syscomatic Technologies Ltd** • `20 May 2020 – 30 Dec 2023`  
-> **Onnow – Cloud Kitchen SaaS**
+## Experience
 
-- Built **multi-tenant SaaS** with role-based access and analytics  
-- Integrated **payment gateways** and automated menu systems  
+| Period | Role | Work |
+|:--|:--|:--|
+| **May 2024 – Present** | Software Engineer Level II, **ACI Logistics Ltd** | Real-time audit & inspection platform across 700+ retail outlets; offline-first Flutter app, Django REST backend, ERP integration |
+| **Jan 2024 – Mar 2025** | Deputy Manager (Software Engineer), **Best Electronics Ltd** | Backend with ERP sync, Docker CI/CD and payments for an e-commerce platform and group ERP automation |
+| **May 2020 – Dec 2023** | Software Engineer, **Syscomatic Technologies Ltd** | Multi-tenant cloud-kitchen SaaS: Express.js, MongoDB, Redis, Docker, GitHub Actions |
 
-**Tech Stack**: Express.js, MongoDB, Docker, Redis, GitHub Actions  
-🍴 [Onnow D2C](https://app.onnow.io/login)
-
----
-
-## 🚀 **Freelance Projects (Fiverr – Level 1 Seller)**
-
-| Project | Description | Tech & Impact |
-|-------|-------------|---------------|
-| **Custom Mobile App with Odoo/ERP Integration** | Real-time sync for inventory, sales, and field operations | Flutter + Django + Odoo API → 80% less manual work |
-| **IC Cleaners – UK SaaS MVP** | Booking, scheduling & payment platform for cleaning services | Flutter + Node.js + Stripe → Live in 3 weeks |
-| **Real Estate Mobile App with ERP** | Property listings, viewings, and transactions synced with ERP | Flutter + PostgreSQL + Real-Time API → 1K+ listings |
-
-**Hire me for your next MVP** → [fiverr.com/jinnat75](https://www.fiverr.com/jinnat75)
+**Education:** B.E. Software Development, IU International University of Applied Sciences (2022–2025)
 
 ---
 
-## 🎓 **Education**
+## Specialties
 
-**B.E. Software Development**  
-*IU International University of Applied Sciences, Germany*  
-`Sep 2022 – Feb 2025` | **180 ECTS** | ZFU Accredited
-
----
-
-## 🏆 **Certifications**
-
-| Certification | Platform | Year |
-|-------------|----------|------|
-| Full Stack MERN | Ostad | 2023 |
-| Flutter Mobile Dev | Ostad | 2023 |
-| Python Backend API | Udemy | 2021 |
-| Reactive Angular | Udemy | 2025 |
+| | |
+|:--|:--|
+| **Enterprise & ERP Integration** | Odoo data sync, webhooks, custom modules |
+| **SaaS Development** | Multi-tenant architecture, RBAC, payments |
+| **Mobile Applications** | Flutter, offline-first design, Riverpod |
+| **Backend & APIs** | Django REST, FastAPI, Express, GraphQL |
+| **Automation** | Workflow automation and CI/CD pipelines |
 
 ---
 
-## 🔥 **Currently Building (Freelance on Fiverr)**
+## Currently Exploring
 
-```diff
-+ Custom Mobile App with Odoo/ERP Integration (Live sync for logistics & sales)
-+ Build SaaS Application for Startup MVP – IC Cleaners UK (AI scheduling + payments)
-+ Real Estate Mobile App with ERP Integration (Property management from mobile)
+- Odoo-connected mobile experiences
+- FastAPI service patterns
+- Angular 20 with headless CMS backends
+
+---
+
+<div align="center">
+
+## Have an ERP integration, SaaS idea or engineering challenge?
+
+Let's talk about building it properly.
+
+[**thezhasan.com**](https://thezhasan.com/) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/zahedhasan) &nbsp;·&nbsp; [**zahedhasan.cs@gmail.com**](mailto:zahedhasan.cs@gmail.com) &nbsp;·&nbsp; [**Fiverr**](https://www.fiverr.com/jinnat75)
+
+<sub>Dhaka, Bangladesh · Open to select collaborations</sub>
+
+</div>
